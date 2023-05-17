@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>928493884801-qbqb7v3iploqlctd6riausuk1g931cct.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.928493884801-qbqb7v3iploqlctd6riausuk1g931cct</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAtOocmUr93tz6IOuJSBfkx7qCPRlSTJHA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>928493884801</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.poszabayeh.zabayehaljazeera</string>
+	<key>PROJECT_ID</key>
+	<string>zabayehaljazera</string>
+	<key>STORAGE_BUCKET</key>
+	<string>zabayehaljazera.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:928493884801:ios:5f0491219c0b0270138480</string>
+</dict>
+</plist>
